@@ -1,2 +1,2 @@
-# advanced-mathematics
-advanced mathematics class materials of CUC
+# 数学类
+中国传媒大学《高等数学》、《线性代数》等笔记及相关拓展阅读
